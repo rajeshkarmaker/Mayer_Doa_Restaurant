@@ -169,7 +169,7 @@ This launches all four terminal windows. The customer screen is interactive - st
 
 ## Authors
 
-Built by **Rajesh Karmaker** and **Zeba Anika**.
+Built by [**Rajesh Karmaker**](https://github.com/rajeshkarmaker) and [**Zeba Anika**](https://github.com/zeba-anika).
 
 ## License
 
